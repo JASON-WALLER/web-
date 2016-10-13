@@ -1,0 +1,24 @@
+<html>
+
+<style>
+    body{
+    background-color:black;
+    font-family:Monospace;
+    color:green;
+   }
+   
+   #orange-text{
+    color:orange;
+   }
+   .pink-text{
+    color-text:pink !important;
+   }
+   .blue-text{
+    color:blue;
+   }
+</style>
+
+<h1 id="orange-text" class="pink-text blue-text"  style="cloor:white">
+Hello World</h1>
+
+</html>

@@ -1,0 +1,21 @@
+ <html>
+
+<div class="container-fluid">
+  <h2 class="text-primary text-center">CatPhotoApp</h2>
+  
+    <img src="https://bit.ly/fcc-running-cats" class="img-responsive" alt="Three kittens running towards the camera. ">
+<div class="row">
+    <div class="col-xs-4">
+      <button class="btn btn-block btn-primary">Like</button>
+    </div>
+    <div class="col-xs-4">
+      <button class="btn btn-block btn-info">Info</button>
+    </div>
+    <div class="col-xs-4">
+      <button class="btn btn-block btn-danger">Delete</button>
+    </div>
+</div>
+  <p>Things cats love:</p>
+  <p> <span class="text-danger">love</span></p>
+ 
+<html>

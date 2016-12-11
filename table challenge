@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>table</title>
+    <style type="text/css">
+        td, th { border: 1px solid #CCCCCC}
+        table {border: 1px solid black}
+    </style>
+</head>
+<body>
+<table>
+    <caption>Your Conetent Here</caption>
+    <tr>
+        <th rowspan="2"></th>
+        <th colspan="2">A commom herder for two subheads</th>
+        <th rowspan="2">Header 3</th>
+    </tr>
+    <tr>
+        <td>Header 1</td>
+        <td>Header 2</td>
+    </tr>
+    <tr>
+        <td>Thing A</td>
+        <td>data A1</td>
+        <td>data A2</td>
+        <td>data A3</td>
+    </tr>
+    <tr>
+        <td>Thing B</td>
+        <td>data B1</td>
+        <td>data B2</td>
+        <td>data B3</td>
+    </tr>
+    <tr>
+        <td>Thing C</td>
+        <td>data C1</td>
+        <td>data C2</td>
+        <td>data C3</td>
+    </tr>
+</table>
+
+</body>
+</html>
